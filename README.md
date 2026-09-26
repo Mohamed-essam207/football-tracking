@@ -1,4 +1,4 @@
-![Uploading Screenshot 2026-09-26 212620.png…]()
+<img width="1917" height="1078" alt="Screenshot 2026-09-26 212620" src="https://github.com/user-attachments/assets/233af254-2f9e-44e1-a219-942b8046d344" />
 # Football tracking + possession + xG
 
 Detects and tracks players and the ball in a football video, splits the players into two teams
