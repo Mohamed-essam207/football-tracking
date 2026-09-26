@@ -11,7 +11,7 @@ Everything runs in **`football_possession_tracking.ipynb`** on Google Colab — 
 needed. Open it in Colab (button below), run the cells in order, and pick your video when
 prompted.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/football_possession_tracking.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohamed-essam207/football-tracking/blob/main/football_possession_tracking.ipynb)
 
 Replace `YOUR_USERNAME/YOUR_REPO` above with your GitHub username and this repo's name once it's
 uploaded.
