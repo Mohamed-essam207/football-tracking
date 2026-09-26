@@ -1,0 +1,7 @@
+norfair
+filterpy
+ultralytics
+opencv-python
+pillow
+pandas
+numpy

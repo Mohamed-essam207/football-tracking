@@ -1,0 +1,17 @@
+# model weights - too large / private for git, use Releases or Drive instead
+*.pt
+*.pth
+*.onnx
+
+# videos and generated output
+videos/
+outputs/
+runs/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os
+.DS_Store
