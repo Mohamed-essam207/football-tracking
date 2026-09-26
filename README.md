@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-09-26 212620.png…]()
 # Football tracking + possession + xG
 
 Detects and tracks players and the ball in a football video, splits the players into two teams
